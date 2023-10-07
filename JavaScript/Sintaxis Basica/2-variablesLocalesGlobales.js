@@ -24,3 +24,22 @@ console.log("Variable música antes del bloque:", musica)
 
 console.log("Variable película despues del bloque:", pelicula)
 console.log("Variable música despues del bloque:", musica)
+
+//Defina dos variables locales
+
+var nombre = "Andres";
+console.log("Nombre antes de blloque:", nombre)
+var apellidos = "Villamil";
+console.log("Apellidos antes de blloque:", apellidos)
+
+
+let edad = 45;
+console.log("La edad antes del bloque:", edad);
+let comida = "Pizza";
+console.log("Comida antes del bloque:", comida);
+
+//Bloque
+{
+
+
+}

@@ -8,3 +8,9 @@ const PI=3.1416
 /*Interpolación de variables: Tener dentro de una cadena de texto un valor dinamico de la siguiente manera
     `Texto ${variable / constante}`*/
 console.log(`El valor de PI es: ${PI}`)
+
+const minuto =60
+const segundo = 60
+const hora = 24
+
+console.log(`Un minuto tiene ${minuto}`)
